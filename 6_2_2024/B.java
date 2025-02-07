@@ -1,4 +1,4 @@
-/*prog to print no from 1 to 10 using for loop
+/*prog to print no from 44 to 22 using for loop
 package org.tka;
 
 public class B {
